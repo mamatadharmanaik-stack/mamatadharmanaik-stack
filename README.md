@@ -3,14 +3,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B9A7B,100:D4A373&height=220&section=header&text=Hi%20there,%20I'm%20Mamata%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20%7C%20ECE%20Graduate%20%7C%20Embedded%20Systems&descAlignY=58&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9CAF88&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+learning%2C+always+building;Open+to+entry-level+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9CAF88&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Java+%7C+Spring+Boot+%7C+REST+APIs;Always+learning%2C+always+building;Probably+fixing+a+bug+right+now+%F0%9F%90%9B;Open+to+entry-level+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=mamatadharmanaik-stack&color=8b9a7b&style=flat-square&label=Profile+Views" />&nbsp;
 <img src="https://img.shields.io/badge/Location-Bangalore-D4A373?style=flat-square&logo=googlemaps&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/CGPA-8.7%2F10-8B9A7B?style=flat-square&logo=googlescholar&logoColor=white" />
+<img src="https://img.shields.io/badge/CGPA-8.7%2F10-8B9A7B?style=flat-square&logo=googlescholar&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/Coffee%20Level-Critical-D4A373?style=flat-square&logo=buymeacoffee&logoColor=white" />
 
 </div>
 
@@ -23,6 +24,7 @@ name: "Mamata Dharma Naik"
 education: "B.E. Electronics & Communication Engineering, GEC Karwar (2026)"
 role: "Aspiring Java Full Stack Developer"
 currently_learning: ["Spring Boot internals", "Cloud Fundamentals", "DSA in Java"]
+debugging_method: "console.log() and a little bit of prayer"
 interests: ["Web Development", "Embedded Systems & IoT", "Building real-world projects"]
 fun_fact: "Started in Embedded Systems, fell in love with Full Stack Development."
 ```
@@ -31,6 +33,7 @@ fun_fact: "Started in Embedded Systems, fell in love with Full Stack Development
 - 💻 Trained Java Full Stack Intern at **JSpiders**
 - 🔭 Currently building projects with **Java, Spring Boot, Hibernate & MySQL**
 - ⚡ Background in **Embedded Systems** (ESP32, sensors, real-time monitoring)
+- 🐛 Currently hunting a bug that's definitely a "feature" in disguise
 - 📫 Reach me at **mamatadharmanaik@gmail.com**
 
 <br/>
@@ -70,6 +73,22 @@ fun_fact: "Started in Embedded Systems, fell in love with Full Stack Development
 </td>
 </tr>
 </table>
+
+<br/>
+
+## 🎯 Current Status
+
+<div align="center">
+
+| Status | Reality |
+|:------:|:-------|
+| 🟢 Coding | Yes, mostly in Java |
+| 🐞 Debugging | Always, it's basically a hobby now |
+| ☕ Coffee Reserves | Running dangerously low |
+| 😴 Sleep Schedule | "Optimizing" (translation: nonexistent) |
+| 🧠 Brain State | 60% Java syntax, 40% song lyrics |
+
+</div>
 
 <br/>
 
@@ -147,6 +166,36 @@ Role-based platform for Customers, Merchants & Admins — auth, cart, order proc
 
 <br/>
 
+## 😄 Things I've Definitely Said This Week
+
+<div align="center">
+
+<details>
+<summary><b>Click to reveal (you know it's true)</b></summary>
+<br/>
+
+- "It works on my machine." 🤷‍♀️
+- "Just one more semicolon and I'm done"... two hours ago.
+- "It's not a bug, it's an undocumented feature."
+- "404: Sleep not found."
+- "I'll comment my code later" — narrator: she did not.
+
+</details>
+
+</div>
+
+<br/>
+
+### 💬 Random Dev Joke (refreshes on every visit)
+
+<div align="center">
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+</div>
+
+<br/>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -163,7 +212,7 @@ Role-based platform for Customers, Merchants & Admins — auth, cart, order proc
 <br/>
 
 <div align="center">
-<i>"Learning every day, building every step."</i> ⭐
+<i>"Learning every day, building every step — mostly with a debugger open in the next tab."</i> ⭐
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4A373,100:8B9A7B&height=120&section=footer" />
